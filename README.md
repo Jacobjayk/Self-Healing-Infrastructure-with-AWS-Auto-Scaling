@@ -1,4 +1,4 @@
-# Project 8: Self-Healing Infrastructure with AWS Auto Scaling
+# Self-Healing Infrastructure with AWS Auto Scaling
 A Complete Beginner's Guide (Zero AWS/DevOps Knowledge Required)
 
 ---
